@@ -11,10 +11,6 @@
 | Fichier | Description |
 |---|---|
 | `Campagne_de_sensibilisation_VSS.pptx` | Présentation complète de la campagne (13 diapositives) |
-| `README.md` | Ce fichier |
-
-> 💡 GitHub ne prévisualise pas les fichiers `.pptx`. Télécharge le fichier (bouton **Download raw file**) pour l'ouvrir dans PowerPoint, Keynote ou LibreOffice Impress.
-
 ---
 
 ## Contexte
