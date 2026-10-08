@@ -89,7 +89,3 @@ Les visuels et contenus de cette présentation (affiches et baromètre) ont ét�
 Les affiches analysées (ENS de Lyon, Coopemploi, CGT, CPCA) restent la propriété de leurs auteurs respectifs et ne sont présentées qu'à titre d'analyse.
 
 ---
-
-## Contact
-
-Pour toute question ou suggestion, ouvre une **issue** sur ce dépôt ou contacte les autrices directement.
